@@ -1,2 +1,2 @@
-# czh-racing-github
-czh's github repository for racing
+readme
+这次作业让我了解了cmake的运行逻辑和编译过程，从一开始对着一堆cmakelists文件束手无策，通过学习才逐渐掌握，完成过程中我也遇到了很多困难，比如头文件找不到导致编译时一直报错，oopencv一直链接不上导致运行不了，后来才搞懂是find_package的写法不对
